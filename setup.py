@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='google_forms',
-      version='0.2',
+      version='0.3',
       description='Flask web proxy for Google forms',
       url='http://github.com/logicalicy/google_forms',
       author='Logicalicy',
